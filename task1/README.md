@@ -1,4 +1,4 @@
-##Task1
+## Task1
 Apply the following techniques on the titanic Dataset
 **Download Dataset** : https://www.kaggle.com/c/titanic/data?select=train.csv
 1. Remove the null values
